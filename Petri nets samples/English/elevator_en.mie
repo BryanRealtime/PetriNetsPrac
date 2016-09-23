@@ -1,0 +1,210 @@
+1
+passenger`waits`for`the`elevator
+12
+10
+1051 1241 
+1048 1282
+19
+0
+-
+-
+2
+2
+65 1 
+8 49 
+
+2
+passenger`waits`for`the`elevator
+12
+10
+1047 1802 
+1047 1780
+20
+0
+2@
+-
+2
+2
+51 2 
+3 47 
+
+3
+elevator`on`the`second`floor
+12
+10
+1720 1274 
+1604 1282
+20
+0
+@
+-
+3
+3
+6 61 52 
+7 15 39 
+
+4
+elevator`on`the`ground`floor
+12
+10
+1719 1771 
+1603 1778
+20
+0
+-
+-
+3
+3
+5 62 68 
+4 31 41 
+
+5
+open`doors`on`the`ground`floor
+12
+10
+1561 1680 
+1441 1691
+20
+0
+-
+-
+3
+3
+12 22 59 
+21 29 55 
+
+6
+open`doors`on`the`second`floor
+12
+10
+1556 1352 
+1436 1361
+20
+0
+-
+-
+3
+3
+9 26 64 
+13 25 53 
+
+7
+elevator`empty
+12
+10
+1227 1504 
+1313 1513
+20
+0
+@
+-
+4
+4
+20 27 43 44 
+17 23 37 38 
+
+8
+elevator`full
+12
+10
+1392 1505 
+1456 1514
+20
+0
+-
+-
+4
+4
+18 24 34 35 
+19 28 33 36 
+
+9
+closed`doors`on`the`ground`floor
+12
+10
+1199 1697 
+1324 1694
+20
+0
+@
+-
+3
+3
+30 50 56 
+11 46 32 
+
+10
+closed`doors`on`the`second`floor
+12
+10
+1204 1333 
+1323 1359
+20
+0
+@
+-
+3
+3
+14 48 54 
+10 45 63 
+
+11
+elevator`with`the`passenger`goes`downwards
+12
+10
+1828 1555 
+1710 1532
+20
+0
+-
+-
+1
+1
+58 
+16 
+
+12
+elevator`with`the`passenger`goes`upwards
+12
+10
+1823 1481 
+1711 1456
+20
+0
+-
+-
+1
+1
+57 
+60 
+
+13
+empty`elevator`goes`down
+12
+10
+824 1559 
+824 1600
+20
+0
+-
+-
+1
+1
+66 
+67 
+
+14
+empty`elevator`goes`up
+12
+10
+807 1461 
+827 1432
+20
+0
+-
+-
+1
+1
+40 
+42 
+

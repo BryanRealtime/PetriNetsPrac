@@ -1,0 +1,150 @@
+1
+samochody`sπ`na`podjeüdze
+12
+12
+1555 1375 
+1644 1457
+51
+0
+VW+BMW+FORD+FIAT+KIA
+(VW,x)+(BMW,x)+(FORD,x)+(FIAT,x)+(KIA,x)
+1
+1
+20 
+1 
+
+2
+wolne`miejsca
+12
+12
+1267 1394 
+1267 1455
+33
+0
+4M
+-
+1
+1
+13 
+2 
+
+3
+niezatankowane`samochody`przy`dystrybutorach
+12
+12
+1249 1537 
+1454 1546
+47
+0
+-
+-
+1
+1
+3 
+4 
+
+4
+wolne`dystrybutory
+12
+12
+1643 1589 
+1643 1635
+25
+0
+P+L
+(P,z)+(L,z)
+1
+1
+6 
+5 
+
+5
+`
+12
+12
+1641 1737 
+1641 1783
+25
+0
+-
+-
+1
+1
+10 
+7 
+
+6
+zatankowane`samochody`przy`dystrybutorach
+12
+12
+1263 1706 
+1456 1726
+46
+0
+-
+-
+1
+1
+8 
+9 
+
+7
+samochody`mogπ`wyjechaÊ
+12
+12
+1314 1896 
+1457 1907
+47
+0
+-
+-
+1
+1
+11 
+12 
+
+8
+wolni`kasjerzy
+12
+12
+1618 1816 
+1701 1819
+25
+0
+k+K
+(k,w)+(K,w)
+1
+1
+14 
+15 
+
+9
+samochody`sπ`na`wyjeüdzie
+12
+12
+1645 1923 
+1645 1995
+51
+0
+-
+-
+1
+1
+16 
+17 
+
+10
+samochody`jeødzπ
+12
+12
+1896 1678 
+1793 1688
+42
+0
+BMW
+(BMW,x)
+1
+1
+18 
+19 
+

@@ -1,0 +1,60 @@
+1
+Seller`waits`for`customer
+12
+12
+1385 1510 
+1385 1556
+25
+0
+C
+-
+1
+2
+1 
+2 3 
+
+2
+Seller`has`received`the`money
+12
+12
+1391 1763 
+1390 1731
+25
+0
+-
+-
+2
+1
+4 6 
+5 
+
+3
+Customer`wants`to`buy`the`goods
+12
+12
+1668 1500 
+1653 1556
+25
+0
+B+A
+-
+2
+2
+12 14 
+7 8 
+
+4
+Customers`with`the`goods
+12
+12
+1653 1762 
+1655 1731
+25
+0
+-
+-
+2
+2
+9 10 
+11 13 
+
